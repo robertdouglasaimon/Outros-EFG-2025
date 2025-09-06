@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* Reset básico */
 * {
   margin: 0;
@@ -85,4 +87,19 @@ button {
 
 button:hover {
   background: #005fa3;
+}
+
+
+
+
+/* Sessão separada para estilizar o footer e o link que há lá dentro */
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #0077cc;
+  font-weight: bold;
 }
