@@ -261,7 +261,7 @@ Formas de usar CSS
 <br>
 
 ## ⭐ Curta o repositório ae carai! xD
-<p>Se este material te ajudou, deixa uma estrela (⭐) no repositório. (Que eu to ligado que você vão precisar, Robson ali ta f.... AHAHAAAM!) </p>
+<p>Se este material te ajudou, deixa uma estrela (⭐) no repositório. (Que eu to ligado que vocês vão precisar! Robson ali ta f.... AHAHAAAM!) </p>
 <p>Isso motiva a continuidade do projeto e ajuda outros iniciantes a encontrarem este conteúdo. Valeu! 🚀</p> <br>
 
 ![programador-frenetico](./src/assets/img/programador-frenetico.gif)
