@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML, CSS e JS — Corpo do Site</title>
+  <link rel="stylesheet" href="./src/css/style.css">
+</head>
+<body>
+  <header>
+    <h1>HTML, CSS e JavaScript</h1>
+    <p>O corpo humano dos sites</p>
+  </header>
+
+  <main>
+    <section id="esqueleto">
+      <h2>HTML = O Esqueleto</h2>
+      <p>O <strong>HTML</strong> é a estrutura do site, como os ossos e articulações do corpo humano.</p>
+      <pre><code>&lt;h1&gt;Olá, mundo!&lt;/h1&gt;
+&lt;p&gt;Este é meu primeiro parágrafo.&lt;/p&gt;</code></pre>
+    </section>
+
+    <section id="aparencia">
+      <h2>CSS = A Aparência</h2>
+      <p>O <strong>CSS</strong> é a pele, roupas e estilo. Ele define cores, tamanhos, fontes e espaçamentos.</p>
+      <div class="caixa-exemplo">Caixa estilizada pelo CSS</div>
+    </section>
+
+    <section id="movimento">
+      <h2>JavaScript = O Movimento</h2>
+      <p>O <strong>JavaScript</strong> é como os músculos e o cérebro: ele dá vida, ação e interatividade ao site.</p>
+      <button id="btn-mover">Clique para me mover!</button>
+      <div id="bola"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 
+      <script>
+          document.write(new Date().getFullYear()); // Insere o ano atual no parágrafo.
+      </script> 
+      — Projeto Didático Corpo do Site</p>
+  </footer>
+
+  <script src="./src/js/script.js"></script>
+</body>
+</html>
